@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/Dashboard.qml</file>
+        <file>qml/DevicePanel.qml</file>
+        <file>qml/GraphPanel.qml</file>
+        <file>qml/TestControl.qml</file>
+        <file>qml/LogPanel.qml</file>
+        <file>qml/ResultsTable.qml</file>
+        <file>qml/MetricPanel.qml</file>
+        <file>qml/TopBar.qml</file>
+        <file>qml/RightPanel.qml</file>
+        <file>qml/TestPanel.qml</file>
+        <file>qml/TabBarPanel.qml</file>
+        <file>qml/Tabs.qml</file>
+        <file>qml/ChartsPanel.qml</file>
+        <file>qml/ResultsPanel.qml</file>
+        <file>qml/ControlPanel.qml</file>
+    </qresource>
+</RCC>
